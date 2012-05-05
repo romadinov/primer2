@@ -11,6 +11,7 @@ group :development do
   gem 'growl', '1.0.3'
   gem 'guard-spork'
   gem 'spork-rails'
+  gem 'pry'
 end
 
 
